@@ -1,7 +1,7 @@
 public class NumberLoop {
     public static void main(String[] args) {
 
-        long number = 1234567890L; // 10-digit number
+        long number = 4444444444L; // Abraham - 4 + 3 = 7
 
         System.out.println("Starting Number : " + number);
         System.out.println("Ending Number   : " + (number + 100));
