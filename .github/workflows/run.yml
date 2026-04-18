@@ -13,6 +13,6 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: Compile
-        run: javac Main.java
+        run: javac NumberLoop.java
       - name: Run
-        run: java Main
+        run: java NumberLoop
